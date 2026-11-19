@@ -2,8 +2,6 @@
 
 ML course project (Machine Learning & Stochastic Processes, Bennett University) pitched as a startup: **PayShield**, an API that scores every UPI-style transaction for fraud.
 
-**Team:** Vinayak Jain (A25ARIU0013), Kartik (A25ARIU0019), Keshav (A25ARIU0020)
-
 ## Problem
 Fraud is under 1% of transactions, so a model that always says "genuine" looks 99.7% accurate but catches nothing. We balance the data with SMOTE and judge models on recall and F1.
 
